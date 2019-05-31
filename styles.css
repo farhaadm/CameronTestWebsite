@@ -1,0 +1,14 @@
+html, body {
+	width: 100vw;
+	height: 100vh;
+}
+
+h1 {
+	color: orangered;
+	
+}
+
+footer {
+	width: 100%;
+	background-color: red;
+}
